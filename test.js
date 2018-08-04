@@ -1,5 +1,5 @@
-const 'assert' = require('assert')
-
+const assert = require("assert");
+//v1 tests
 describe('fileParse', function() {
   it('should list ALL files tracked by git');
   it('should list ALL folders');
