@@ -1,0 +1,19 @@
+{
+  "name": "g_log",
+  "version": "0.0.2",
+  "description": "g's consolelog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guillermo adrian gjadriant@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "git-ls-files": "^1.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
